@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Notes 18</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="passwor">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="delete">Delete</string>
+    <string name="log_out">Log out</string>
+    <string name="my_notes">My Notes</string>
+</resources>
